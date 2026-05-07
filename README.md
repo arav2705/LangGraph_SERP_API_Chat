@@ -42,16 +42,3 @@ Then type a prompt like:
 
 > "Research why LangGraph is useful for building autonomous AI agents."
 
-## Notes
-
-- The script follows the Codecademy example structure: search -> summarize -> answer.
-- It uses a stateful node graph to orchestrate the workflow.
-- For local execution with Ollama, install Ollama and pull `llama2`.
-
-## Portfolio idea
-
-This project is small and easy to include on GitHub. You can extend it later with:
-
-- a web UI using Flask or Streamlit
-- tool calls for file lookup or math
-- memory storage for follow-up questions
