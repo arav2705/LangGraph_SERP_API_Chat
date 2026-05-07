@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain_ollama
+langchain-community
+langchain-openai
+langchain-core
+openai
+requests
+streamlit
